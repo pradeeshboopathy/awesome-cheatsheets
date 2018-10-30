@@ -10,6 +10,7 @@
 npm install --save @angular/cli       // install command line interface (CLI) for Angular apps
 ng serve                              // serve the app
 ng build                              // build the release
+ng generate                           // Generates any of [class, component, directive, enum, guard, interface, module, pipe, service, appShell, application, library, universal]
 ```
 
 
